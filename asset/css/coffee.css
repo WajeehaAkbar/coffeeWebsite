@@ -1,0 +1,38 @@
+.banner {
+    height: 652px;
+    width: -webkit-fill-available;
+}
+
+.blend-p {
+    width: 750px;
+}
+
+.table-h {
+    border: 2px solid;
+    padding: 20px;
+}
+
+.city,
+.order,
+.profit {
+    padding: 9px;
+}
+
+#description {
+    position: absolute;
+    margin-top: 41px;
+    margin-left: -76px;
+}
+
+.footer-c {
+    margin-top: 250px;
+}
+
+.Footer {
+    margin-top: 55px;
+}
+
+.logo,
+.banner {
+    cursor: pointer;
+}
